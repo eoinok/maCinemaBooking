@@ -8,3 +8,4 @@ The goals for this weeks lab are
 - To use the Javascript array map function to populate a picker with data from a json array
 
 # Part 1
+Clone the repo into a local folder. 
