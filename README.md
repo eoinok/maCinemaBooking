@@ -7,7 +7,7 @@ The goals for this weeks lab are
 - To use a DateTimePicker to access the calendar function of the device
 - To use the Javascript array map function to populate a picker with data from a json array
 
-This app is designed to be completed by cloning the repository onto a Desktop computer but can also be completed using Expo.dev as a Snack. If using the Snack approach, you must create a Snack, replace the code with the code from the Repo. You must add new files to your Snack, the moviesV3.png file must be added to the assets folder. The PersonalInfo.js and MovieBooking.js files must be added to the components folder. In addition, students must replace the settings in package.json file with the settings from the package.json file in the repo.
+This app is designed to be completed by cloning the repository onto a Desktop computer but can also be completed using Expo.dev as a Snack. If using the Snack approach, you must create a Snack, replace the code with the code from the Repo. You must add new files to your Snack, the moviesV3.png file must be added to the assets folder. The PersonalInfo.js and MovieBooking.js files must be added to the components folder. In addition, students must replace the settings in package.json file with the settings from the package.json file in the repo..
 
 # Part 1
 This app includes the ability to add additional screens using a Swiper. So far just one screen for the Cinema booking (PersonalInfo) has been included. To include a second screen MovieBooking we need to do two things
